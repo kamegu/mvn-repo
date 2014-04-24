@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.kamegu</groupId>
+  <artifactId>jersey-mvc-freemarker-ext-utf8</artifactId>
+  <versioning>
+    <release>0.0.1-for2.5.1</release>
+    <versions>
+      <version>0.0.1-for2.5.1</version>
+    </versions>
+    <lastUpdated>20140424110354</lastUpdated>
+  </versioning>
+</metadata>
