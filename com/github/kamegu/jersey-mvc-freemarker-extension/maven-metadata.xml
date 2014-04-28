@@ -3,10 +3,10 @@
   <groupId>com.github.kamegu</groupId>
   <artifactId>jersey-mvc-freemarker-extension</artifactId>
   <versioning>
-    <release>0.0.1</release>
+    <release>0.0.1-hoge</release>
     <versions>
-      <version>0.0.1</version>
+      <version>0.0.1-hoge</version>
     </versions>
-    <lastUpdated>20140428111615</lastUpdated>
+    <lastUpdated>20140428111720</lastUpdated>
   </versioning>
 </metadata>
